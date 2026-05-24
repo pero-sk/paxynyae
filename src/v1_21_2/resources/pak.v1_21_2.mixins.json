@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "penguin.pak.v1_21_2.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "LanguageManagerMixin",
+    "LanguageManagerAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
