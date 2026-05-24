@@ -58,7 +58,7 @@ Ky paro dosejeeh:
 
 ### Version Compatibility
 
-These are all for fabric
+naeky tuky paro Fabric dogyfeh 
 
 |Version|Supported|
 |----------|-----------|
@@ -69,5 +69,4 @@ These are all for fabric
 |1.20.1|Not Supported|
 |1.20|Not Supported|
 
-These are all the currently planned versions,
-more may show up in the future
+naeky tuky jee Version jaelukyna kytu tuky tutoree menesas jeenadoleefefy.
