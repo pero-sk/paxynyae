@@ -3,16 +3,16 @@
 	"id": "pak",
 	"version": "${version}",
 	"name": "pak",
-	"description": "Adds translations for pakhynae to minecraft",
+	"description": "Adds translations for paxynyae to minecraft",
 	"authors": [
 		"pero-sk"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/pero-sk/paxynyae"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/pak/icon.png",
+	"icon": "assets/pak/pax_icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
