@@ -1,8 +1,6 @@
 # paxynyae / pax
 
-A Minecraft mod built to implement and test the constructed language **paxəɲæ** inside a real game environment.
-
-This project exists as a practical application of the language — not the other way around.
+A Minecraft mod built to implement and test the constructed language **paxəɲæ** inside a real game environment. This project exists as a practical application of the language.
 
 ## Overview
 
