@@ -4,6 +4,8 @@ A Minecraft mod built to implement and test the constructed language **paxəɲæ
 
 ![paxəɲæ banner](static/final.png)
 
+[You can read this in paxəɲæ, although badly translated](static/readme_in_pax.md)
+
 ## Overview
 
 paxəɲæ is a constructed language developed independently as a full linguistic system.
