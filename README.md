@@ -2,6 +2,8 @@
 
 A Minecraft mod built to implement and test the constructed language **paxəɲæ** inside a real game environment. This project exists as a practical application of the language.
 
+![paxəɲæ banner](static/final.png)
+
 ## Overview
 
 paxəɲæ is a constructed language developed independently as a full linguistic system.
